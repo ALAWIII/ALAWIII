@@ -36,5 +36,5 @@ Focused on building a scalable backend architecture with clean separation of con
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=ALAWIII&theme=one_dark_pro&hide_border=false" alt="ALAWIII" /></p>
 
-## 💰 Buy me a Shawarma
+## 🌯 Buy me a Shawarma
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/aligh0xd)
